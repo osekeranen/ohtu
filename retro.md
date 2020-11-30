@@ -1,1 +1,3 @@
+## Retrospektiivit
 
+Retrospektiivit ovat olennainen osa ketteriä menetelmiä ja juuri tämän takia myös niitä harjoitellaan miniprojektissa. Ryhmämme harjoitteli ensimmäisellä viikolla retrospektiiveja Glad, Sad, Mad -tyylin avulla jossa vuorotellen kerroimme jonkin huomaamamme asian ja kerroimme mielipiteemme asiasta. Huomasimme että kommunikointi projektiin liittyvissä yleisissä asioissa on ollut hyvää, mutta myös heikkouksiakin löytyi; ryhmän olessa täysin uusi, emme olleet pystyneet vielä luomaan yhteisiä käytänteitä esimerkiksi sitä varten että millaisessa muodossa metodien kuuluu palauttaa muuttujia. Korjasimme asian ja mielestäni tämä auttaa koodin sisäisen laadun varmistamisessa.
